@@ -2,6 +2,7 @@
 
 A website made for me to practice HTML, CSS and Javascript.
 
+## Features
 - [x] Click into products
 - [ ] Add to cart
 - [ ] Dark mode
