@@ -2,6 +2,10 @@
 
 *A responsive website built to sharpen my HTML, CSS and Javascript.*
 
+## 🧪 Tech
+- HTML/CSS
+- Javascript
+
 ## 🎈 Features
 - [x] Click into products
 - [ ] Add to cart
