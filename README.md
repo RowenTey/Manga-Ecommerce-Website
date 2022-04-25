@@ -14,4 +14,4 @@
 - [ ] Cart checkout
 
 ## 🤓 References 
-- Youtube: https://www.youtube.com/watch?v=P8YuWEkTeuE
+- Tech2 etc Youtube: https://www.youtube.com/watch?v=P8YuWEkTeuE
