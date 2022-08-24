@@ -12,6 +12,3 @@
 - [ ] Dark mode
 - [ ] User log in
 - [ ] Cart checkout
-
-## 🤓 References 
-- Tech2 etc Youtube: https://www.youtube.com/watch?v=P8YuWEkTeuE
