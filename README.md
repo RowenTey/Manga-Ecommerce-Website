@@ -6,7 +6,7 @@
 - HTML/CSS
 - Javascript
 
-## 🎈 Features
+## 💡 Features
 - [x] Click into products
 - [ ] Add to cart
 - [ ] Dark mode
